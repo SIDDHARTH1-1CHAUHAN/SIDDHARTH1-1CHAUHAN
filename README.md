@@ -6,5 +6,5 @@
   EMAIL:- siddharthchauhan.pro@gmail.com
   MOBILE:- +919501351769
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: ...
+
 
