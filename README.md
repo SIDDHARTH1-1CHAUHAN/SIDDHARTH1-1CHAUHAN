@@ -3,15 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SIDDHARTH1-1CHAUHAN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<iframe
-		src="https://skyline3d.in/SIDDHARTH1-1CHAUHAN/embed?endDate=2025-03-25&enableZoom=false"
-		width="100%"
-		height="100%"
-		frameborder="0"
-	></iframe>
-
-
-
 ###
 
 <div align="left">
