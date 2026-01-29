@@ -1,63 +1,78 @@
 <div align="center">
 
-<!-- Clean, minimal header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=1&section=header" width="100%"/>
+<!-- Striking Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=200&section=header&text=SIDDHARTH%20CHAUHAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Intelligent%20Systems&descSize=18&descAlignY=55" width="100%"/>
 
 <br/>
 
-# SIDDHARTH CHAUHAN
-
+<!-- Typing Animation -->
 <a href="https://github.com/SIDDHARTH1-1CHAUHAN">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=500&lines=AI%2FML+Engineer;Systems+Architect;Founding+Engineer+%40+SecuFi;GSoC+'25+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=AI%2FML+Engineer+%7C+Systems+Architect;Founding+Engineer+%40+SecuFi;Google+Summer+of+Code+'25;Highest+SGPA+%40+PEC+Chandigarh" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://www.linkedin.com/in/siddharth-chauhan-225803252">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:siddharthchauhan.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/SIDDHARTH1-1CHAUHAN">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<br/><br/>
 
-<br/>
+<!-- Social Badges -->
+<a href="https://www.linkedin.com/in/siddharth-chauhan-225803252">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:siddharthchauhan.pro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<!-- Profile Stats -->
+<img src="https://komarev.com/ghpvc/?username=SIDDHARTH1-1CHAUHAN&style=for-the-badge&color=000000&labelColor=ffffff&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
+<br/>
+
+<!-- Highlights Section -->
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🏆-000000?style=for-the-badge" height="35"/>
 <br/>
-<img src="https://img.shields.io/badge/9.16-SGPA-000000?style=flat-square&labelColor=ffffff" height="28"/>
+<strong>Highest SGPA</strong>
 <br/>
-<sub><b>Punjab Engineering College</b></sub>
+<sub>Punjab Engineering College</sub>
 <br/>
-<sub>ECE + CSE Minor</sub>
-<br/><br/>
+<sub>9.16 / 10</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌍-000000?style=for-the-badge" height="35"/>
 <br/>
-<img src="https://img.shields.io/badge/GSoC-2025-000000?style=flat-square&labelColor=ffffff" height="28"/>
+<strong>GSoC '25</strong>
 <br/>
-<sub><b>Google Summer of Code</b></sub>
+<sub>Google Summer of Code</sub>
 <br/>
 <sub>Open Source Contributor</sub>
-<br/><br/>
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🚀-000000?style=for-the-badge" height="35"/>
 <br/>
-<img src="https://img.shields.io/badge/3x-Winner-000000?style=flat-square&labelColor=ffffff" height="28"/>
+<strong>Founding Engineer</strong>
 <br/>
-<sub><b>National Hackathons</b></sub>
+<sub>SecuFi</sub>
 <br/>
-<sub>DPBH · SIH · Hack-To-Hatch</sub>
-<br/><br/>
+<sub>Building from 0 → 1</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🥇-000000?style=for-the-badge" height="35"/>
+<br/>
+<strong>3x Winner</strong>
+<br/>
+<sub>National Hackathons</sub>
+<br/>
+<sub>DPBH · SIH · H2H</sub>
 </td>
 </tr>
 </table>
@@ -69,15 +84,17 @@
 
 <br/>
 
-## About
+## ⚡ About
 
+```typescript
+const siddharth = {
+    role: "Founding Engineer @ SecuFi",
+    education: "B.Tech ECE (CSE Minor) @ PEC Chandigarh",
+    focus: ["Multi-Agent Systems", "RAG Architectures", "Production ML"],
+    philosophy: "I don't just build models—I build systems that ship.",
+    current: "Building AI infrastructure from the ground up"
+};
 ```
-I architect intelligent systems that bridge research and production.
-```
-
-Currently pursuing **Electronics & Communication Engineering** (Minor: CSE) at **Punjab Engineering College** (9.16 SGPA). My work focuses on multi-agent AI systems, RAG architectures, and deploying ML at scale.
-
-I don't just build models—I build systems that ship.
 
 <br/>
 
@@ -85,49 +102,85 @@ I don't just build models—I build systems that ship.
 
 <br/>
 
-## Experience
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,typescript,go,java,cpp,c&theme=dark" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,express,graphql,postgresql,mongodb,redis,supabase&theme=dark" />
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,grafana,prometheus&theme=dark" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kafka,figma&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 💼 Experience
 
 <table>
 <tr>
-<td width="120" align="center">
+<td width="100" align="center">
 <br/>
-<img src="https://img.shields.io/badge/NOW-000?style=flat-square&labelColor=fff&color=000" />
+<img src="https://img.shields.io/badge/NOW-blueviolet?style=for-the-badge" />
 <br/><br/>
 </td>
 <td>
-<strong>SecuFi</strong>
-<br/>
-<sub>Founding Engineer · Ongoing</sub>
+<h3>SecuFi</h3>
+<strong>Founding Engineer</strong>
 <br/><br/>
-<sub>Building core infrastructure as a founding engineer at an early-stage startup. Architecting systems from the ground up with full ownership of technical decisions.</sub>
+Building core infrastructure from the ground up. Full ownership of technical architecture, AI systems, and product development at an early-stage startup.
+<br/><br/>
+<img src="https://img.shields.io/badge/Startup-000000?style=flat-square"/> <img src="https://img.shields.io/badge/0→1-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Full_Stack-000000?style=flat-square"/>
 </td>
 </tr>
 <tr>
-<td width="120" align="center">
+<td width="100" align="center">
 <br/>
-<img src="https://img.shields.io/badge/2025-000?style=flat-square&labelColor=fff&color=000" />
+<img src="https://img.shields.io/badge/2025-success?style=for-the-badge" />
 <br/><br/>
 </td>
 <td>
-<strong>Google Summer of Code</strong>
-<br/>
-<sub>Open Source Contributor · Remote</sub>
+<h3>Google Summer of Code</h3>
+<strong>Open Source Contributor</strong>
 <br/><br/>
-<sub>Developed USGSFetcher module for AI-native data ingestion, boosting validation by 30%. Contributed 5+ PRs to AI infrastructure with interactive Plotly dashboards.</sub>
+Developed USGSFetcher module using Searvey for AI-native data ingestion, boosting validation by 30%. Contributed 5+ PRs focused on AI infrastructure and interactive Plotly dashboards.
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Plotly-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Open_Source-000000?style=flat-square"/>
 </td>
 </tr>
 <tr>
-<td width="120" align="center">
+<td width="100" align="center">
 <br/>
-<img src="https://img.shields.io/badge/2024-000?style=flat-square&labelColor=fff&color=000" />
+<img src="https://img.shields.io/badge/2024-blue?style=for-the-badge" />
 <br/><br/>
 </td>
 <td>
-<strong>CSIO-ISTC</strong>
-<br/>
-<sub>ML Research Intern · Chandigarh</sub>
+<h3>CSIO-ISTC</h3>
+<strong>ML Research Intern</strong>
 <br/><br/>
-<sub>Implemented Grounding DINO visual object detection with natural language prompts. Deployed transformer-based models for bounding box generation on natural and thermal imagery.</sub>
+Implemented Grounding DINO visual object detection with natural language prompts. Deployed transformer-based models for bounding box generation on natural and thermal imagery.
+<br/><br/>
+<img src="https://img.shields.io/badge/Computer_Vision-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Transformers-000000?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -138,136 +191,147 @@ I don't just build models—I build systems that ship.
 
 <br/>
 
-## Featured Work
+## 🚀 Featured Projects
 
-<br/>
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Multi-Agent Fact-Checker
+<h3 align="center">🔍 Multi-Agent Fact-Checker</h3>
 
-Research implementation of a 6-agent verification pipeline with explainable AI capabilities.
+<p align="center">
+Research implementation of a 6-agent verification pipeline with explainable AI
+</p>
 
-<br/>
-
-| Metric | Value |
-|--------|-------|
-| Accuracy | **80%** |
-| Benchmarks | FEVEROUS, HoVer, SciFact |
-| Explainability | LIME/SHAP |
-
-<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Accuracy-80%25-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agents-6-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/XAI-LIME%2FSHAP-purple?style=flat-square"/>
+</p>
 
 ```
 Python · LangChain · Ollama · Next.js
 ```
 
-<br/>
-
-[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge)](https://github.com/SIDDHARTH1-1CHAUHAN/Research_Paper01)
+<p align="center">
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN/Research_Paper01">
+<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### AI SDR Platform
+<h3 align="center">📈 AI SDR Platform</h3>
 
-Enterprise sales automation with LLM-powered multi-agent orchestration.
+<p align="center">
+Enterprise sales automation with LLM-powered multi-agent orchestration
+</p>
 
-<br/>
-
-| Metric | Value |
-|--------|-------|
-| Engagement | **+35%** |
-| Workload Reduction | **40%** |
-| Architecture | Multi-Agent RAG |
-
-<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Engagement-+35%25-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Workload--40%25-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-Multi--Agent-purple?style=flat-square"/>
+</p>
 
 ```
 LangGraph · FastAPI · Pinecone · OpenAI
 ```
 
-<br/>
-
-[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge)](https://github.com/SIDDHARTH1-1CHAUHAN/ai-sdr-system)
+<p align="center">
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN/ai-sdr-system">
+<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Multimodal Agentic Expert
+<h3 align="center">🤖 Multimodal Agentic Expert</h3>
 
-Cloud-native AI agent combining text, image, and structured data processing.
+<p align="center">
+Cloud-native AI agent for text, image, and structured data fusion
+</p>
 
-<br/>
-
-| Metric | Value |
-|--------|-------|
-| Accuracy Gain | **+30%** |
-| Manual Effort | **-25%** |
-| Reasoning | Chain-of-Thought |
-
-<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Accuracy-+30%25-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Effort--25%25-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/CoT-Reasoning-purple?style=flat-square"/>
+</p>
 
 ```
 Python · LangChain · RAG · Vector Search
 ```
 
-<br/>
-
-[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge)](https://github.com/SIDDHARTH1-1CHAUHAN/multimodal-agentic-expert)
+<p align="center">
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN/multimodal-agentic-expert">
+<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### Traffic Analysis System
+<h3 align="center">🚦 Traffic Analysis System</h3>
 
-AI-native traffic optimization with real-time analytics and ML forecasting.
+<p align="center">
+AI-native traffic optimization with real-time ML forecasting
+</p>
 
-<br/>
-
-| Metric | Value |
-|--------|-------|
-| Wait Time | **-40%** |
-| Detection | YOLOv5 |
-| Status | Research Paper (In Progress) |
-
-<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Wait_Time--40%25-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLOv5-Detection-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research-In_Progress-purple?style=flat-square"/>
+</p>
 
 ```
 YOLOv5 · Computer Vision · ML
 ```
 
-<br/>
-
-[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge)](https://github.com/SIDDHARTH1-1CHAUHAN/Traffic-congestion-analysis)
+<p align="center">
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN/Traffic-congestion-analysis">
+<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 ---
 
 <br/>
 
-## Technical Domain
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SIDDHARTH1-1CHAUHAN&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
 
 <br/>
 
+---
+
+<br/>
+
+## 📊 Stats
+
 <div align="center">
 
-|  |  |
-|:--|:--|
-| **AI & Machine Learning** | LangChain · LangGraph · RAG · LLMs · OpenAI · Pinecone · Weaviate · LlamaIndex · PyTorch · Scikit-learn |
-| **Backend Systems** | FastAPI · Node.js · Django · Express · GraphQL |
-| **Data Infrastructure** | PostgreSQL · MongoDB · Redis · Supabase · Kafka |
-| **Cloud & DevOps** | Docker · Kubernetes · AWS · ArgoCD · Grafana · Prometheus |
-| **Languages** | Python · TypeScript · Golang · Java · C++ · SQL |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIDDHARTH1-1CHAUHAN&show_icons=true&hide_border=true&count_private=true&title_color=ffffff&icon_color=3498db&text_color=ffffff&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SIDDHARTH1-1CHAUHAN&hide_border=true&background=0D1117&ring=3498DB&fire=3498DB&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=SIDDHARTH1-1CHAUHAN&bg_color=0d1117&color=ffffff&line=3498db&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -277,24 +341,13 @@ YOLOv5 · Computer Vision · ML
 
 <br/>
 
-## Metrics
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIDDHARTH1-1CHAUHAN&show_icons=true&hide_border=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SIDDHARTH1-1CHAUHAN&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=666666" />
-
-</div>
-
-<br/>
+## 🌐 3D Contribution Map
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-green.svg" />
-    <img width="100%" alt="Contribution Graph" src="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-green.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img width="100%" alt="3D Contribution Graph" src="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
 </div>
 
@@ -304,27 +357,31 @@ YOLOv5 · Computer Vision · ML
 
 <br/>
 
-## Education
-
-<br/>
+## 🎓 Education
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center">
 <br/>
-<h3>Punjab Engineering College</h3>
-<sub>Chandigarh · 2022 — 2026</sub>
+<img src="https://img.shields.io/badge/🏆_HIGHEST_SGPA-000000?style=for-the-badge" />
 <br/><br/>
-<strong>B.Tech</strong> Electronics & Communication Engineering
+<h2>Punjab Engineering College</h2>
+<sub>Chandigarh, India · 2022 — 2026</sub>
+<br/><br/>
+<strong>B.Tech</strong> in Electronics & Communication Engineering
 <br/>
-<sub>Minor in Computer Science</sub>
+<strong>Minor</strong> in Computer Science & Engineering
 <br/><br/>
-<img src="https://img.shields.io/badge/SGPA-9.16-000000?style=for-the-badge&labelColor=ffffff" />
+<img src="https://img.shields.io/badge/SGPA-9.16%20%2F%2010-success?style=for-the-badge"/>
+<br/><br/>
+<sub>Finance Secretary (2025-26) · Joint Secretary SAASC (2025)</sub>
 <br/><br/>
 </td>
 </tr>
 </table>
+
 </div>
 
 <br/>
@@ -333,9 +390,7 @@ YOLOv5 · Computer Vision · ML
 
 <br/>
 
-## Contributions
-
-<br/>
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -353,30 +408,37 @@ YOLOv5 · Computer Vision · ML
 
 <div align="center">
 
-### Let's Build Something
+## 🤝 Let's Connect
 
 <br/>
 
 <p>
-Open to opportunities in <strong>AI/ML Engineering</strong>, <strong>Systems Architecture</strong>, and <strong>Research</strong>.
+Open to opportunities in <strong>AI/ML Engineering</strong>, <strong>Founding Roles</strong>, and <strong>Research</strong>.
 </p>
 
 <br/>
 
 <a href="mailto:siddharthchauhan.pro@gmail.com">
-  <img src="https://img.shields.io/badge/Get_In_Touch-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📧_Get_In_Touch-000000?style=for-the-badge" />
 </a>
 
 <br/><br/>
 
-<sub>
-  <a href="https://www.linkedin.com/in/siddharth-chauhan-225803252">LinkedIn</a> ·
-  <a href="mailto:siddharthchauhan.pro@gmail.com">siddharthchauhan.pro@gmail.com</a> ·
-  <a href="https://github.com/SIDDHARTH1-1CHAUHAN">GitHub</a>
-</sub>
+<a href="https://www.linkedin.com/in/siddharth-chauhan-225803252">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:siddharthchauhan.pro@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=1&section=footer" width="100%"/>
-
 </div>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=120&section=footer" width="100%"/>
