@@ -7,9 +7,9 @@
 
 # SIDDHARTH CHAUHAN
 
-<p>
-  <strong>AI/ML Engineer</strong> · <strong>Systems Architect</strong> · <strong>GSoC '25</strong>
-</p>
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=500&lines=AI%2FML+Engineer;Systems+Architect;Founding+Engineer+%40+SecuFi;GSoC+'25+Contributor" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://www.linkedin.com/in/siddharth-chauhan-225803252">
@@ -325,6 +325,24 @@ YOLOv5 · Computer Vision · ML
 </td>
 </tr>
 </table>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Contributions
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/output/github-snake.svg" />
+    <img width="100%" alt="Contribution Snake" src="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br/>
