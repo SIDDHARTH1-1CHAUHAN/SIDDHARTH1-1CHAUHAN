@@ -264,22 +264,6 @@
 
 ---
 
-## ⏱️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Setting up WakaTime integration...
-```
-<!--END_SECTION:waka-->
-
-<div align="center">
-<sub>⬆️ Auto-updated via GitHub Actions</sub>
-</div>
-
-<br/>
-
----
-
 ## 💼 Experience
 
 <table>
