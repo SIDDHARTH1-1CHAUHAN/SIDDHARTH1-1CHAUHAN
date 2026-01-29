@@ -325,17 +325,6 @@ YOLOv5 · Computer Vision · ML
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SIDDHARTH1-1CHAUHAN&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<br/>
-
----
-
-<br/>
 
 ## 📊 Stats
 
@@ -391,7 +380,7 @@ YOLOv5 · Computer Vision · ML
 <br/><br/>
 <img src="https://img.shields.io/badge/SGPA-9.16%20%2F%2010-success?style=for-the-badge"/>
 <br/><br/>
-<sub>Finance Secretary (2025-26) · Joint Secretary SAASC (2025)</sub>
+<sub>Finance Co-Head (2025-26) · Joint Secretary SAASC (2025)</sub>
 <br/><br/>
 </td>
 </tr>
