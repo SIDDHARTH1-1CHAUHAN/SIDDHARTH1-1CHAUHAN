@@ -1,137 +1,249 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 DEMON SLAYER THEMED GITHUB PROFILE - SIDDHARTH CHAUHAN 🔥 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=12,9,5,2,18&amp;height=300&amp;section=header&amp;text=SIDDHARTH&amp;fontSize=90&amp;fontColor=FF6B35&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=⚔️%20Full%20Stack%20AIML%20Engineer%20⚔️&amp;descSize=25&amp;descAlignY=55&amp;descAlign=50&amp;stroke=E73C37&amp;strokeWidth=2"/>
-
-<!-- Animated Typing -->
-<a href="https://github.com/SIDDHARTH1-1CHAUHAN">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=E73C37&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=600&amp;height=50&amp;lines=%F0%9F%94%A5+Building+the+Future+with+Code+%26+AI+%F0%9F%94%A5;%E2%9A%A1+Full+Stack+Developer+%7C+ML+Engineer+%E2%9A%A1;%F0%9F%9A%80+Open+Source+Enthusiast+%F0%9F%9A%80;%F0%9F%8E%AF+Turning+Ideas+into+Reality+%F0%9F%8E%AF" alt="Typing SVG" />
-</a>
+<!-- Clean, minimal header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=1&section=header" width="100%"/>
 
 <br/>
 
-<!-- Animated Badges Row -->
-<img src="https://komarev.com/ghpvc/?username=SIDDHARTH1-1CHAUHAN&amp;style=for-the-badge&amp;color=E73C37&amp;labelColor=0D1117&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/SIDDHARTH1-1CHAUHAN?tab=followers">
-  <img src="https://img.shields.io/github/followers/SIDDHARTH1-1CHAUHAN?style=for-the-badge&amp;color=FF6B35&amp;labelColor=0D1117&amp;logo=github&amp;label=Followers" alt="Followers"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/github/stars/SIDDHARTH1-1CHAUHAN?style=for-the-badge&amp;color=E73C37&amp;labelColor=0D1117&amp;logo=github&amp;label=Stars" alt="Stars"/>
+# SIDDHARTH CHAUHAN
 
-<br/><br/>
+<p>
+  <strong>AI/ML Engineer</strong> · <strong>Systems Architect</strong> · <strong>GSoC '25</strong>
+</p>
 
-<!-- Animated Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" alt="Ninja" width="40" height="40" /> &nbsp;About Me
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73444c6d6d76656878314f4e4e544145524c65685a754d4e37614c51774f4f37415a355436746c4d586e6a54566c5049674f4f6c6c5379353167746e474232466e335a4f3476436f54665a445339564e777a66644d6d6e6f5a727a486c5a736a4e3338646e3061305170644e6971534f776f636a67634b5738766145374e567a6e5a586a356f615a307a55564d4435546b7836716c6c63714a4b37715159594e33724b324e5337665164656a4e395244526668544b544e4c4d66414644577947384e4651376e306a69315a62784a4d5a6a6f6e75554a77717a654e6a514c636f6a476b4f52695a56366e5a54655a74494e685a664e6b4a4257696d48387a53797a5a4d6f666a7646765436626435464e6e6f4147665966626f385076514c4a53716252554d5872" />
-
-```typescript
-const siddharth = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Python", "JavaScript", "C++"],
-    askMeAbout: ["web dev", "AI/ML", "system design", "cloud"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["TailwindCSS", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["FastAPI", "Django"]
-        },
-        ai_ml: ["TensorFlow", "PyTorch", "LangChain", "OpenCV"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        devOps: ["AWS", "Docker", "Kubernetes", "GitHub Actions"],
-    },
-    currentFocus: "Building AI-powered applications",
-    funFact: "I debug code like a Hashira slays demons!"
-};
-```
-
-<br clear="both"/>
-
-<div align="center">
-
-| 🔭 Currently Working On | 🌱 Currently Learning | 👯 Looking to Collaborate | 💬 Ask Me About |
-|:----------------------:|:--------------------:|:------------------------:|:---------------:|
-| Full Stack AI Projects | LangChain & LLMs | Open Source AI/ML | React, Node, Python, ML |
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/siddharth-chauhan-225803252">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:siddharthchauhan.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/SIDDHARTH1-1CHAUHAN">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" height="35" /> &nbsp;Tech Stack
-
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
-
-### 🔥 Languages
 <br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp&amp;perline=2&amp;theme=dark" />
-
+<img src="https://img.shields.io/badge/9.6-CGPA-000000?style=flat-square&labelColor=ffffff" height="28"/>
+<br/>
+<sub><b>IIT Madras</b></sub>
+<br/>
+<sub>Data Science & ML</sub>
+<br/><br/>
 </td>
 <td align="center" width="33%">
-
-### ⚡ Frontend
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&amp;perline=3&amp;theme=dark" />
-
+<img src="https://img.shields.io/badge/GSoC-2025-000000?style=flat-square&labelColor=ffffff" height="28"/>
+<br/>
+<sub><b>Google Summer of Code</b></sub>
+<br/>
+<sub>Open Source Contributor</sub>
+<br/><br/>
 </td>
 <td align="center" width="33%">
-
-### 🚀 Backend
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&amp;perline=2&amp;theme=dark" />
+<img src="https://img.shields.io/badge/3x-Winner-000000?style=flat-square&labelColor=ffffff" height="28"/>
+<br/>
+<sub><b>National Hackathons</b></sub>
+<br/>
+<sub>DPBH · SIH · Hack-To-Hatch</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## About
+
+```
+I architect intelligent systems that bridge research and production.
+```
+
+Currently pursuing dual degrees at **Punjab Engineering College** (ECE, 9.16 SGPA) and **IIT Madras** (Data Science & ML, 9.6 CGPA). My work focuses on multi-agent AI systems, RAG architectures, and deploying ML at scale.
+
+I don't just build models—I build systems that ship.
+
+<br/>
+
+---
+
+<br/>
+
+## Experience
+
+<table>
+<tr>
+<td width="120" align="center">
+<br/>
+<img src="https://img.shields.io/badge/2025-000?style=flat-square&labelColor=fff&color=000" />
+<br/><br/>
+</td>
+<td>
+<strong>Google Summer of Code</strong>
+<br/>
+<sub>Open Source Contributor · Remote</sub>
+<br/><br/>
+<sub>Developed USGSFetcher module for AI-native data ingestion, boosting validation by 30%. Contributed 5+ PRs to AI infrastructure with interactive Plotly dashboards.</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
+<br/>
+<img src="https://img.shields.io/badge/2025-000?style=flat-square&labelColor=fff&color=000" />
+<br/><br/>
+</td>
+<td>
+<strong>GoodSpace AI</strong>
+<br/>
+<sub>AI Engineer · Noida</sub>
+<br/><br/>
+<sub>Architected AI CFO system with multi-agent orchestration (LangChain, LangGraph, Azure OpenAI). Built NLP financial interface achieving 85% accuracy on QuickBooks queries. Engineered 40+ REST APIs.</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center">
+<br/>
+<img src="https://img.shields.io/badge/2024-000?style=flat-square&labelColor=fff&color=000" />
+<br/><br/>
+</td>
+<td>
+<strong>CSIO-ISTC</strong>
+<br/>
+<sub>ML Research Intern · Chandigarh</sub>
+<br/><br/>
+<sub>Implemented Grounding DINO visual object detection with natural language prompts. Deployed transformer-based models for bounding box generation on natural and thermal imagery.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## Featured Work
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Multi-Agent Fact-Checker
+
+Research implementation of a 6-agent verification pipeline with explainable AI capabilities.
+
+<br/>
+
+| Metric | Value |
+|--------|-------|
+| Accuracy | **80%** |
+| Benchmarks | FEVEROUS, HoVer, SciFact |
+| Explainability | LIME/SHAP |
+
+<br/>
+
+```
+Python · LangChain · Ollama · Next.js
+```
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge)](https://github.com/SIDDHARTH1-1CHAUHAN/Research_Paper01)
+
+</td>
+<td width="50%" valign="top">
+
+### AI SDR Platform
+
+Enterprise sales automation with LLM-powered multi-agent orchestration.
+
+<br/>
+
+| Metric | Value |
+|--------|-------|
+| Engagement | **+35%** |
+| Workload Reduction | **40%** |
+| Architecture | Multi-Agent RAG |
+
+<br/>
+
+```
+LangGraph · FastAPI · Pinecone · OpenAI
+```
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge)](https://github.com/SIDDHARTH1-1CHAUHAN/ai-sdr-system)
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-### 🤖 AI/ML
+### Multimodal Agentic Expert
+
+Cloud-native AI agent combining text, image, and structured data processing.
+
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&amp;perline=3&amp;theme=dark" />
-<br/><br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
+
+| Metric | Value |
+|--------|-------|
+| Accuracy Gain | **+30%** |
+| Manual Effort | **-25%** |
+| Reasoning | Chain-of-Thought |
+
+<br/>
+
+```
+Python · LangChain · RAG · Vector Search
+```
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge)](https://github.com/SIDDHARTH1-1CHAUHAN/multimodal-agentic-expert)
 
 </td>
-<td align="center">
+<td width="50%" valign="top">
 
-### 🗄️ Databases
+### Traffic Analysis System
+
+AI-native traffic optimization with real-time analytics and ML forecasting.
+
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&amp;perline=3&amp;theme=dark" />
 
-</td>
-<td align="center">
+| Metric | Value |
+|--------|-------|
+| Wait Time | **-40%** |
+| Detection | YOLOv5 |
+| Status | Research Paper (In Progress) |
 
-### ☁️ Cloud & DevOps
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions&amp;perline=2&amp;theme=dark" />
+
+```
+YOLOv5 · Computer Vision · ML
+```
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge)](https://github.com/SIDDHARTH1-1CHAUHAN/Traffic-congestion-analysis)
 
 </td>
 </tr>
@@ -139,191 +251,126 @@ const siddharth = {
 
 <br/>
 
-### 🛠️ Other Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kafka,grafana,figma,postman&amp;perline=8&amp;theme=dark" />
+---
+
+<br/>
+
+## Technical Domain
+
+<br/>
+
+<div align="center">
+
+|  |  |
+|:--|:--|
+| **AI & Machine Learning** | LangChain · LangGraph · RAG · LLMs · OpenAI · Pinecone · Weaviate · LlamaIndex · PyTorch · Scikit-learn |
+| **Backend Systems** | FastAPI · Node.js · Django · Express · GraphQL |
+| **Data Infrastructure** | PostgreSQL · MongoDB · Redis · Supabase · Kafka |
+| **Cloud & DevOps** | Docker · Kubernetes · AWS · ArgoCD · Grafana · Prometheus |
+| **Languages** | Python · TypeScript · Golang · Java · C++ · SQL |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Metrics
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIDDHARTH1-1CHAUHAN&show_icons=true&hide_border=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SIDDHARTH1-1CHAUHAN&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=666666" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-green.svg" />
+    <img width="100%" alt="Contribution Graph" src="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-green.svg" />
+  </picture>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" height="35" /> &nbsp;GitHub Stats
+---
+
+<br/>
+
+## Education
+
+<br/>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SIDDHARTH1-1CHAUHAN&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;title_color=FF6B35&amp;icon_color=E73C37&amp;text_color=FFFFFF&amp;bg_color=0D1117" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDHARTH1-1CHAUHAN&amp;layout=compact&amp;hide_border=true&amp;title_color=FF6B35&amp;text_color=FFFFFF&amp;bg_color=0D1117&amp;langs_count=8" alt="Top Languages"/>
-
+<table>
+<tr>
+<td align="center" width="50%">
+<br/>
+<h3>Punjab Engineering College</h3>
+<sub>Chandigarh · 2022 — 2026</sub>
 <br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=SIDDHARTH1-1CHAUHAN&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;stroke=E73C37&amp;ring=FF6B35&amp;fire=E73C37&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=FF6B35&amp;sideLabels=FF6B35&amp;dates=888888" alt="GitHub Streak"/>
-
+<strong>B.Tech</strong> Electronics & Communication Engineering
+<br/>
+<sub>Minor in Computer Science</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/SGPA-9.16-000000?style=for-the-badge&labelColor=ffffff" />
+<br/><br/>
+</td>
+<td align="center" width="50%">
+<br/>
+<h3>IIT Madras</h3>
+<sub>Chennai · 2023 — 2026</sub>
+<br/><br/>
+<strong>B.S.</strong> Data Science & Machine Learning
+<br/>
+<sub>Online Degree Program</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/CGPA-9.6-000000?style=for-the-badge&labelColor=ffffff" />
+<br/><br/>
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 3D CONTRIBUTION GRAPH -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="35" height="35" /> &nbsp;3D Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img width="100%" alt="3D Contribution Graph" src="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
-</div>
+---
 
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> &nbsp;Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SIDDHARTH1-1CHAUHAN&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=7&amp;margin-w=10&amp;margin-h=10" alt="GitHub Trophies"/>
-
-</div>
+### Let's Build Something
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- SNAKE ANIMATION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" height="35" /> &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/output/github-snake.svg" />
-  <img width="100%" alt="Snake Animation" src="https://raw.githubusercontent.com/SIDDHARTH1-1CHAUHAN/SIDDHARTH1-1CHAUHAN/output/github-snake-dark.svg" />
-</picture>
-
-</div>
+<p>
+Open to opportunities in <strong>AI/ML Engineering</strong>, <strong>Systems Architecture</strong>, and <strong>Research</strong>.
+</p>
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="35" height="35" /> &nbsp;Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube"/>
+<a href="mailto:siddharthchauhan.pro@gmail.com">
+  <img src="https://img.shields.io/badge/Get_In_Touch-000000?style=for-the-badge" />
 </a>
 
 <br/><br/>
 
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-E73C37?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://YOUR_PORTFOLIO.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&amp;logo=firefox-browser&amp;logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&amp;logo=buy-me-a-coffee&amp;logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- QUOTE SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30"/>
-
-### *"Set your heart ablaze. Go beyond your limits."*
-#### — Kyojuro Rengoku
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30"/>
+<sub>
+  <a href="https://www.linkedin.com/in/siddharth-chauhan-225803252">LinkedIn</a> ·
+  <a href="mailto:siddharthchauhan.pro@gmail.com">siddharthchauhan.pro@gmail.com</a> ·
+  <a href="https://github.com/SIDDHARTH1-1CHAUHAN">GitHub</a>
+</sub>
 
 <br/><br/>
 
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,9,5,2,18&amp;height=150&amp;section=footer&amp;animation=twinkling"/>
-
-<div align="center">
-
-**⚔️ Crafted with passion by Siddharth ⚔️**
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="25"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=1&section=footer" width="100%"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--
-███████╗██╗██████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗
-██╔════╝██║██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
-███████╗██║██║  ██║██║  ██║███████║███████║██████╔╝   ██║   ███████║
-╚════██║██║██║  ██║██║  ██║██╔══██║██╔══██║██╔══██╗   ██║   ██╔══██║
-███████║██║██████╔╝██████╔╝██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║
-╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
--->
