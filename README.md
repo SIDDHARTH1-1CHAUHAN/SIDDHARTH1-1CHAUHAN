@@ -86,15 +86,41 @@
 
 ## ⚡ About
 
-```typescript
-const siddharth = {
-    role: "Founding Engineer @ SecuFi",
-    education: "B.Tech ECE (CSE Minor) @ PEC Chandigarh",
-    focus: ["Multi-Agent Systems", "RAG Architectures", "Production ML"],
-    philosophy: "I don't just build models—I build systems that ship.",
-    current: "Building AI infrastructure from the ground up"
-};
+<div align="center">
+
 ```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   > whoami                                                                   │
+│   Founding Engineer @ SecuFi | Building AI infrastructure from 0 → 1        │
+│                                                                              │
+│   > cat /etc/education                                                       │
+│   B.Tech ECE (CSE Minor) @ Punjab Engineering College, Chandigarh           │
+│                                                                              │
+│   > ls ~/expertise/                                                          │
+│   multi-agent-systems/   rag-architectures/   production-ml/   llm-ops/     │
+│                                                                              │
+│   > echo $PHILOSOPHY                                                         │
+│   "I don't just build models—I build systems that ship."                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_CURRENT_MISSION-000000?style=for-the-badge"/>
+<br/><br/>
+<strong>Architecting AI systems that scale from prototype to production</strong>
+<br/>
+<sub>Multi-agent orchestration • RAG pipelines • Real-time inference</sub>
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
