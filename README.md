@@ -34,11 +34,11 @@
 <tr>
 <td align="center" width="33%">
 <br/>
-<img src="https://img.shields.io/badge/9.6-CGPA-000000?style=flat-square&labelColor=ffffff" height="28"/>
+<img src="https://img.shields.io/badge/9.16-SGPA-000000?style=flat-square&labelColor=ffffff" height="28"/>
 <br/>
-<sub><b>IIT Madras</b></sub>
+<sub><b>Punjab Engineering College</b></sub>
 <br/>
-<sub>Data Science & ML</sub>
+<sub>ECE + CSE Minor</sub>
 <br/><br/>
 </td>
 <td align="center" width="33%">
@@ -75,7 +75,7 @@
 I architect intelligent systems that bridge research and production.
 ```
 
-Currently pursuing dual degrees at **Punjab Engineering College** (ECE, 9.16 SGPA) and **IIT Madras** (Data Science & ML, 9.6 CGPA). My work focuses on multi-agent AI systems, RAG architectures, and deploying ML at scale.
+Currently pursuing **Electronics & Communication Engineering** (Minor: CSE) at **Punjab Engineering College** (9.16 SGPA). My work focuses on multi-agent AI systems, RAG architectures, and deploying ML at scale.
 
 I don't just build models—I build systems that ship.
 
@@ -91,15 +91,15 @@ I don't just build models—I build systems that ship.
 <tr>
 <td width="120" align="center">
 <br/>
-<img src="https://img.shields.io/badge/2025-000?style=flat-square&labelColor=fff&color=000" />
+<img src="https://img.shields.io/badge/NOW-000?style=flat-square&labelColor=fff&color=000" />
 <br/><br/>
 </td>
 <td>
-<strong>Google Summer of Code</strong>
+<strong>SecuFi</strong>
 <br/>
-<sub>Open Source Contributor · Remote</sub>
+<sub>Founding Engineer · Ongoing</sub>
 <br/><br/>
-<sub>Developed USGSFetcher module for AI-native data ingestion, boosting validation by 30%. Contributed 5+ PRs to AI infrastructure with interactive Plotly dashboards.</sub>
+<sub>Building core infrastructure as a founding engineer at an early-stage startup. Architecting systems from the ground up with full ownership of technical decisions.</sub>
 </td>
 </tr>
 <tr>
@@ -109,11 +109,11 @@ I don't just build models—I build systems that ship.
 <br/><br/>
 </td>
 <td>
-<strong>GoodSpace AI</strong>
+<strong>Google Summer of Code</strong>
 <br/>
-<sub>AI Engineer · Noida</sub>
+<sub>Open Source Contributor · Remote</sub>
 <br/><br/>
-<sub>Architected AI CFO system with multi-agent orchestration (LangChain, LangGraph, Azure OpenAI). Built NLP financial interface achieving 85% accuracy on QuickBooks queries. Engineered 40+ REST APIs.</sub>
+<sub>Developed USGSFetcher module for AI-native data ingestion, boosting validation by 30%. Contributed 5+ PRs to AI infrastructure with interactive Plotly dashboards.</sub>
 </td>
 </tr>
 <tr>
@@ -311,7 +311,7 @@ YOLOv5 · Computer Vision · ML
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center">
 <br/>
 <h3>Punjab Engineering College</h3>
 <sub>Chandigarh · 2022 — 2026</sub>
@@ -321,18 +321,6 @@ YOLOv5 · Computer Vision · ML
 <sub>Minor in Computer Science</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/SGPA-9.16-000000?style=for-the-badge&labelColor=ffffff" />
-<br/><br/>
-</td>
-<td align="center" width="50%">
-<br/>
-<h3>IIT Madras</h3>
-<sub>Chennai · 2023 — 2026</sub>
-<br/><br/>
-<strong>B.S.</strong> Data Science & Machine Learning
-<br/>
-<sub>Online Degree Program</sub>
-<br/><br/>
-<img src="https://img.shields.io/badge/CGPA-9.6-000000?style=for-the-badge&labelColor=ffffff" />
 <br/><br/>
 </td>
 </tr>
