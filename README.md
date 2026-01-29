@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/SIDDHARTH1-1CHAUHAN">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=AI%2FML+Engineer+%7C+Systems+Architect;Founding+Engineer+%40+SecuFi;Google+Summer+of+Code+'25;Highest+SGPA+%40+PEC+Chandigarh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=AI%2FML+Engineer+%7C+Systems+Architect;Founding+Engineer+%40+SecuFi;Google+Summer+of+Code+'25;9.16+SGPA+%40+PEC+Chandigarh" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -41,11 +41,11 @@
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🏆-000000?style=for-the-badge" height="35"/>
 <br/>
-<strong>Highest SGPA</strong>
+<strong>9.16 SGPA</strong>
 <br/>
 <sub>Punjab Engineering College</sub>
 <br/>
-<sub>9.16 / 10</sub>
+<sub>Personal Best Semester</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🌍-000000?style=for-the-badge" height="35"/>
@@ -86,41 +86,30 @@
 
 ## ⚡ About
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   > whoami                                                                   │
-│   Founding Engineer @ SecuFi | Building AI infrastructure from 0 → 1        │
-│                                                                              │
-│   > cat /etc/education                                                       │
-│   B.Tech ECE (CSE Minor) @ Punjab Engineering College, Chandigarh           │
-│                                                                              │
-│   > ls ~/expertise/                                                          │
-│   multi-agent-systems/   rag-architectures/   production-ml/   llm-ops/     │
-│                                                                              │
-│   > echo $PHILOSOPHY                                                         │
-│   "I don't just build models—I build systems that ship."                    │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
 <table>
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🎯_CURRENT_MISSION-000000?style=for-the-badge"/>
+<td width="60%">
+
+### I build AI systems that ship to production.
+
+Currently a **Founding Engineer at SecuFi**, architecting core infrastructure from the ground up. Pursuing **B.Tech ECE** with a **CSE Minor** at Punjab Engineering College.
+
+My focus: **Multi-Agent Systems** · **RAG Architectures** · **LLM Operations**
+
+When I'm not shipping code, I'm probably winning hackathons or contributing to open source.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://img.shields.io/badge/Role-Founding_Engineer-blueviolet?style=for-the-badge"/>
 <br/><br/>
-<strong>Architecting AI systems that scale from prototype to production</strong>
-<br/>
-<sub>Multi-agent orchestration • RAG pipelines • Real-time inference</sub>
+<img src="https://img.shields.io/badge/Focus-AI%2FML_Systems-blue?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-Building_0→1-success?style=for-the-badge"/>
+
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
@@ -391,7 +380,7 @@ YOLOv5 · Computer Vision · ML
 <tr>
 <td align="center">
 <br/>
-<img src="https://img.shields.io/badge/🏆_HIGHEST_SGPA-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏆_PERSONAL_BEST-000000?style=for-the-badge" />
 <br/><br/>
 <h2>Punjab Engineering College</h2>
 <sub>Chandigarh, India · 2022 — 2026</sub>
