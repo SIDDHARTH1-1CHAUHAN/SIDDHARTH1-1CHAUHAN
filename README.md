@@ -82,64 +82,180 @@
 
 ---
 
-<br/>
-
 ## ⚡ About
 
-<table>
-<tr>
-<td width="60%">
+<div align="center">
 
-### I build AI systems that ship to production.
+### *"I don't build models. I build systems that ship."*
 
-Currently a **Founding Engineer at SecuFi**, architecting core infrastructure from the ground up. Pursuing **B.Tech ECE** with a **CSE Minor** at Punjab Engineering College.
+<br/>
 
-My focus: **Multi-Agent Systems** · **RAG Architectures** · **LLM Operations**
+**Founding Engineer @ SecuFi** — Building AI infrastructure from the ground up
 
-When I'm not shipping code, I'm probably winning hackathons or contributing to open source.
+**B.Tech ECE (CSE Minor)** — Punjab Engineering College, Chandigarh — **9.16 SGPA**
 
-</td>
-<td width="40%" align="center">
+<br/>
 
-<img src="https://img.shields.io/badge/Role-Founding_Engineer-blueviolet?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Focus-AI%2FML_Systems-blue?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Status-Building_0→1-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Multi--Agent_Systems-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-RAG_Architectures-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Production_ML-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-LLM_Operations-orange?style=flat-square"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 ---
 
+## 🔨 What I'm Building
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/🔴_LIVE-SecuFi-critical?style=for-the-badge"/>
+</td>
+<td>
+<strong>AI-Powered Security Infrastructure</strong>
 <br/>
+<sub>Building core product as Founding Engineer • Full ownership of architecture & AI systems</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/🟡_RESEARCH-Paper-yellow?style=for-the-badge"/>
+</td>
+<td>
+<strong>Traffic Congestion Analysis System</strong>
+<br/>
+<sub>YOLOv5-based vehicle detection • ML forecasting • Research paper in progress</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/🟢_SHIPPED-GSoC-success?style=for-the-badge"/>
+</td>
+<td>
+<strong>USGSFetcher Module @ Google Summer of Code</strong>
+<br/>
+<sub>AI-native data ingestion • 5+ PRs merged • Plotly dashboards</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN/Research_Paper01">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SIDDHARTH1-1CHAUHAN&repo=Research_Paper01&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN/ai-sdr-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SIDDHARTH1-1CHAUHAN&repo=ai-sdr-system&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN/multimodal-agentic-expert">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SIDDHARTH1-1CHAUHAN&repo=multimodal-agentic-expert&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/SIDDHARTH1-1CHAUHAN/Traffic-congestion-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SIDDHARTH1-1CHAUHAN&repo=Traffic-congestion-analysis&theme=github_dark&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🔍 Multi-Agent Fact-Checker**
+<br/>
+<sub>6-agent verification pipeline • 80% accuracy • LIME/SHAP explainability</sub>
+<br/>
+`Python` `LangChain` `Ollama` `Next.js`
+
+</td>
+<td align="center" width="50%">
+
+**📈 AI SDR Platform**
+<br/>
+<sub>+35% engagement • -40% workload • Multi-agent RAG</sub>
+<br/>
+`LangGraph` `FastAPI` `Pinecone` `OpenAI`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🤖 Multimodal Agentic Expert**
+<br/>
+<sub>+30% accuracy • Chain-of-thought reasoning • Data fusion</sub>
+<br/>
+`Python` `LangChain` `RAG` `Vector Search`
+
+</td>
+<td align="center" width="50%">
+
+**🚦 Traffic Analysis System**
+<br/>
+<sub>-40% wait time • YOLOv5 detection • Research paper</sub>
+<br/>
+`YOLOv5` `Computer Vision` `ML`
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
+**`LANGUAGES`**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,typescript,go,java,cpp,c&theme=dark" />
 
-### AI / ML
+<br/><br/>
+
+**`AI / ML`**
+<br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/LlamaIndex-5A2D82?style=flat-square"/>
 
-### Backend & Databases
+<br/><br/>
+
+**`BACKEND & DATABASES`**
+<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,express,graphql,postgresql,mongodb,redis,supabase&theme=dark" />
 
-### DevOps & Cloud
+<br/><br/>
+
+**`DEVOPS & CLOUD`**
+<br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,grafana,prometheus&theme=dark" />
 
-### Tools
+<br/><br/>
+
+**`TOOLS`**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kafka,figma&theme=dark" />
 
 </div>
@@ -148,7 +264,21 @@ When I'm not shipping code, I'm probably winning hackathons or contributing to o
 
 ---
 
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Setting up WakaTime integration...
+```
+<!--END_SECTION:waka-->
+
+<div align="center">
+<sub>⬆️ Auto-updated via GitHub Actions</sub>
+</div>
+
 <br/>
+
+---
 
 ## 💼 Experience
 
@@ -165,7 +295,7 @@ When I'm not shipping code, I'm probably winning hackathons or contributing to o
 <br/><br/>
 Building core infrastructure from the ground up. Full ownership of technical architecture, AI systems, and product development at an early-stage startup.
 <br/><br/>
-<img src="https://img.shields.io/badge/Startup-000000?style=flat-square"/> <img src="https://img.shields.io/badge/0→1-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Full_Stack-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Startup-000000?style=flat-square"/> <img src="https://img.shields.io/badge/0→1-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Full_Stack-000000?style=flat-square"/> <img src="https://img.shields.io/badge/AI_Infrastructure-000000?style=flat-square"/>
 </td>
 </tr>
 <tr>
@@ -180,7 +310,7 @@ Building core infrastructure from the ground up. Full ownership of technical arc
 <br/><br/>
 Developed USGSFetcher module using Searvey for AI-native data ingestion, boosting validation by 30%. Contributed 5+ PRs focused on AI infrastructure and interactive Plotly dashboards.
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Plotly-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Open_Source-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Plotly-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Open_Source-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Engineering-000000?style=flat-square"/>
 </td>
 </tr>
 <tr>
@@ -195,7 +325,7 @@ Developed USGSFetcher module using Searvey for AI-native data ingestion, boostin
 <br/><br/>
 Implemented Grounding DINO visual object detection with natural language prompts. Deployed transformer-based models for bounding box generation on natural and thermal imagery.
 <br/><br/>
-<img src="https://img.shields.io/badge/Computer_Vision-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Transformers-000000?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Transformers-000000?style=flat-square"/> <img src="https://img.shields.io/badge/OpenCV-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Research-000000?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -204,129 +334,7 @@ Implemented Grounding DINO visual object detection with natural language prompts
 
 ---
 
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🔍 Multi-Agent Fact-Checker</h3>
-
-<p align="center">
-Research implementation of a 6-agent verification pipeline with explainable AI
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Accuracy-80%25-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agents-6-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/XAI-LIME%2FSHAP-purple?style=flat-square"/>
-</p>
-
-```
-Python · LangChain · Ollama · Next.js
-```
-
-<p align="center">
-<a href="https://github.com/SIDDHARTH1-1CHAUHAN/Research_Paper01">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">📈 AI SDR Platform</h3>
-
-<p align="center">
-Enterprise sales automation with LLM-powered multi-agent orchestration
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Engagement-+35%25-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Workload--40%25-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-Multi--Agent-purple?style=flat-square"/>
-</p>
-
-```
-LangGraph · FastAPI · Pinecone · OpenAI
-```
-
-<p align="center">
-<a href="https://github.com/SIDDHARTH1-1CHAUHAN/ai-sdr-system">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🤖 Multimodal Agentic Expert</h3>
-
-<p align="center">
-Cloud-native AI agent for text, image, and structured data fusion
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Accuracy-+30%25-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Effort--25%25-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/CoT-Reasoning-purple?style=flat-square"/>
-</p>
-
-```
-Python · LangChain · RAG · Vector Search
-```
-
-<p align="center">
-<a href="https://github.com/SIDDHARTH1-1CHAUHAN/multimodal-agentic-expert">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🚦 Traffic Analysis System</h3>
-
-<p align="center">
-AI-native traffic optimization with real-time ML forecasting
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Wait_Time--40%25-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/YOLOv5-Detection-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Research-In_Progress-purple?style=flat-square"/>
-</p>
-
-```
-YOLOv5 · Computer Vision · ML
-```
-
-<p align="center">
-<a href="https://github.com/SIDDHARTH1-1CHAUHAN/Traffic-congestion-analysis">
-<img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -343,8 +351,6 @@ YOLOv5 · Computer Vision · ML
 
 ---
 
-<br/>
-
 ## 🌐 3D Contribution Map
 
 <div align="center">
@@ -359,8 +365,6 @@ YOLOv5 · Computer Vision · ML
 
 ---
 
-<br/>
-
 ## 🎓 Education
 
 <div align="center">
@@ -369,8 +373,6 @@ YOLOv5 · Computer Vision · ML
 <tr>
 <td align="center">
 <br/>
-<img src="https://img.shields.io/badge/🏆_PERSONAL_BEST-000000?style=for-the-badge" />
-<br/><br/>
 <h2>Punjab Engineering College</h2>
 <sub>Chandigarh, India · 2022 — 2026</sub>
 <br/><br/>
@@ -380,7 +382,8 @@ YOLOv5 · Computer Vision · ML
 <br/><br/>
 <img src="https://img.shields.io/badge/SGPA-9.16%20%2F%2010-success?style=for-the-badge"/>
 <br/><br/>
-<sub>Finance Co-Head (2025-26) · Joint Secretary SAASC (2025)</sub>
+<img src="https://img.shields.io/badge/Finance_Co--Head-2025--26-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Joint_Secretary_SAASC-2025-blue?style=flat-square"/>
 <br/><br/>
 </td>
 </tr>
@@ -391,8 +394,6 @@ YOLOv5 · Computer Vision · ML
 <br/>
 
 ---
-
-<br/>
 
 ## 🐍 Contribution Snake
 
@@ -408,22 +409,19 @@ YOLOv5 · Computer Vision · ML
 
 ---
 
-<br/>
-
 <div align="center">
 
-## 🤝 Let's Connect
+## 💼 Let's Build Together
 
 <br/>
 
-<p>
-Open to opportunities in <strong>AI/ML Engineering</strong>, <strong>Founding Roles</strong>, and <strong>Research</strong>.
-</p>
+*Looking for **Founding Engineer**, **AI/ML**, or **Systems Architecture** roles*
+*where I can build from 0→1 and ship products that matter.*
 
 <br/>
 
 <a href="mailto:siddharthchauhan.pro@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Get_In_Touch-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📧_Let's_Talk-000000?style=for-the-badge" />
 </a>
 
 <br/><br/>
@@ -441,6 +439,12 @@ Open to opportunities in <strong>AI/ML Engineering</strong>, <strong>Founding Ro
 </a>
 
 <br/><br/>
+
+---
+
+*"The best way to predict the future is to build it."* — Alan Kay
+
+---
 
 </div>
 
